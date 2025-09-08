@@ -8,7 +8,7 @@ nuevas tecnologías. Busco aportar soluciones innovadoras que resuelvan problema
 
 ## Tecnologóas
   
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,git,github,react,redux,materialui,nodejs,express,mongodb,postgres,docker,npm,figma,md,postman,vscode,&perline=14" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,git,github,react,redux,materialui,nodejs,express,mongodb,postgres,docker,npm,figma,md,postman,vscode,&perline=15" />
   
 # Estadísticas
 
