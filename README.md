@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hola <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, soy Iago Olivares</h1>
 
-<!--
-**IagoOlivares/IagoOlivares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre mí:    
+      
+Soy un desarrollador full stack con experiencia en proyectos de monitorización industrial utilizando el stack MERN, Node-RED e InfluxDB.
+Apasionado por crear aplicaciones funcionales y escalables, con un enfoque en la mejora continua y el aprendizaje constante de
+nuevas tecnologías. Busco aportar soluciones innovadoras que resuelvan problemas reales, mejorando la interacción digital.
 
-Here are some ideas to get you started:
+## Tecnologóas
+  
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,git,github,react,redux,materialui,nodejs,express,mongodb,postgres,docker,figma,md,postman,vscode,&perline=14" />
+  
+# Estadísticas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" style="margin-top: 20px; margin-bottom: 20px" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+![](https://nirzak-streak-stats.vercel.app/?user=IagoOlivares&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoOlivares&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# ¡Conectémonos!
+<a href="https://www.linkedin.com/in/iago-olivares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
+ 
