@@ -13,7 +13,7 @@ nuevas tecnologías. Busco aportar soluciones innovadoras que resuelvan problema
 # Estadísticas
 
 ![](https://nirzak-streak-stats.vercel.app/?user=IagoOlivares&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoOlivares&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoOlivares&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # ¡Conectémonos!
 <a href="https://www.linkedin.com/in/iago-olivares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
